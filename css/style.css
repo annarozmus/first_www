@@ -190,14 +190,36 @@ img {
     color: #27c7ab;
     text-align: center;
     margin-top: 55px;
+    cursor: pointer;
 }
 
-.chair-big {
+.chair-black {
     background: url("../images/black_chair.png");
     width: 400px;
     height: 300px;
     float: left;
     margin-top: 120px;
+}
+
+.chair-orange {
+    background: url("../images/orange.png");
+    width: 400px;
+    height: 300px;
+    float: left;
+    margin-top: 120px;
+    background-size: cover;
+
+
+}
+
+.chair-red {
+    background: url("../images/red.png");
+    width: 400px;
+    height: 300px;
+    float: left;
+    margin-top: 120px;
+    background-size: cover;
+
 }
 
 .text-main p {
@@ -646,3 +668,18 @@ div.offer-box:hover .small {
     border: 1px solid white;
     color: #27c7ab;
 }
+
+.menu-list {
+    display: none;
+}
+
+
+
+.slider {
+    display: none;
+}
+
+.visible {
+    display: block;
+}
+

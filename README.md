@@ -1,3 +1,7 @@
-Warsztat 01 - stworzenie www (HTML5 + CSS3)
+#Sit on chair
 
-Warsztat 02 - dodanie funkcjonalności Java Script
+A simple website covering HTML5, CSS3 and Java Script.
+
+#Direct link
+
+https://annarozmus.github.io/sit-on-chair/

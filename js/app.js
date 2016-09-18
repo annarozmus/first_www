@@ -54,7 +54,6 @@ document.addEventListener("DOMContentLoaded", function () {
             currentBoxIndex = 0;
         }
         boxes[currentBoxIndex].classList.add("visible")
-
     });
 });
 

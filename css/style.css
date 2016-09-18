@@ -118,7 +118,6 @@ li.navigation {
     text-align: left;
     padding-top: 5px;
     padding-left: 8px;
-
 }
 
 .first-li {
@@ -167,7 +166,6 @@ section {
 }
 
 .box3 {
-
     margin-bottom: 40px;
 }
 
@@ -185,7 +183,6 @@ img {
 }
 
 .sign1, .sign2 {
-
     font-size: 70px;
     color: #27c7ab;
     text-align: center;
@@ -208,8 +205,6 @@ img {
     float: left;
     margin-top: 120px;
     background-size: cover;
-
-
 }
 
 .chair-red {
@@ -219,7 +214,6 @@ img {
     float: left;
     margin-top: 120px;
     background-size: cover;
-
 }
 
 .text-main p {
@@ -231,7 +225,6 @@ img {
     height: 300px;
     float: left;
     margin-top: 120px;
-
 }
 
 .sign-more {
@@ -269,7 +262,6 @@ h2 {
 .box1 {
     background: url("../images/box1_img.jpg");
     background-size: cover;
-
 }
 
 .box2 {
@@ -308,7 +300,6 @@ h5 {
 
 .box3 h5 {
     padding-top: 20px;
-
 }
 
 .price-list {
@@ -320,7 +311,6 @@ h5 {
     width: 320px;
     height: 15px;
     background-color: #27c7ab;
-
 }
 
 .list-stripe {
@@ -387,7 +377,6 @@ h5 {
 
 .text-circle {
     margin-top: 35px;
-
     color: #c4c4c4;
 }
 
@@ -435,7 +424,6 @@ h5 {
     width: 122px;
     margin: 114px auto 0 auto;
     font-size: 14px;
-
 }
 
 .color {
@@ -477,6 +465,7 @@ input[type=text] {
     border: 1px solid rgba(39, 199, 171, 0.4);
     height: 64px;
 }
+
 
 :-moz-placeholder {
     color: #dcdcdc;
@@ -526,7 +515,6 @@ label input[type=checkbox] + span.checkbox {
     border: 1px solid rgba(39, 199, 171, 0.4);
     background-color: white;
     float: left;
-
 }
 
 label input[type=checkbox]:checked + span.checkbox {
@@ -537,7 +525,6 @@ label input[type=checkbox]:checked + span.checkbox {
 
 .checkbox-text {
     color: #dcdcdc;
-
     display: inline-block;
     float: left;
     width: 260px;
@@ -557,7 +544,6 @@ label input[type=checkbox]:checked + span.checkbox {
 footer {
     width: 100%;
     height: 150px;
-
 }
 
 .copyright {
@@ -585,7 +571,6 @@ footer {
     display: inline-block;
     float: left;
     margin-right: 5px;
-
 }
 
 .vimeo {
@@ -595,7 +580,6 @@ footer {
     display: inline-block;
     float: left;
     margin-right: 5px;
-
 }
 
 .pinterest {
@@ -605,7 +589,6 @@ footer {
     display: inline-block;
     float: left;
     margin-right: 5px;
-
 }
 
 .twitter {
@@ -614,7 +597,6 @@ footer {
     background: url(../images/twitter.png);
     display: inline-block;
     float: left;
-
 }
 
 .footer-text {
@@ -640,40 +622,42 @@ footer {
 div.offer-box:hover {
     border: 1px solid #27c7ab;
     background-color: #27c7ab;
+    cursor: pointer
 }
 
 div.offer-box:hover .color {
     color: white;
-
+    cursor: pointer
 }
 
 div.offer-box:hover .circle1 {
-
     background-color: #27c7ab;
     border: 1px solid #27c7ab;
+    cursor: pointer
 }
 
 div.offer-box:hover .circle2,
 div.offer-box:hover .circle3 {
     background-color: white;
     border: 1px solid white;
+    cursor: pointer
 }
 
 div.offer-box:hover .stripe1 span {
     background-color: white;
+    cursor: pointer
 }
 
 div.offer-box:hover .small {
     background-color: white;
     border: 1px solid white;
     color: #27c7ab;
+    cursor: pointer
 }
 
 .menu-list {
     display: none;
 }
-
-
 
 .slider {
     display: none;
